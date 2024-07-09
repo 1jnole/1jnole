@@ -21,11 +21,5 @@ I'm a **Versatile Front-End Engineer** with a knack for creating impactful, user
 - Delving into state management solutions like NgRx to manage complex app states.
 - Improving my knowledge of react and react-native 
 
-## 📫 How to reach me
-
-- [LinkedIn](https://www.linkedin.com/in/jnole/)
-- [GitHub](https://github.com/your-username)
-- Email: jorgenoleweb@gmail.com
-
 
 Feel free to check out my pinned repositories below and don't hesitate to reach out if you'd like to collaborate on a project, or just chat about web dev!
