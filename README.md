@@ -15,11 +15,5 @@ I'm a **Versatile Front-End Engineer** with a knack for creating impactful, user
 ![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 
-## 🌱 Current Learning Goals
-
-- Mastering micro-frontend architectures to build scalable web apps.
-- Delving into state management solutions like NgRx to manage complex app states.
-- Improving my knowledge of react and react-native 
-
 
 Feel free to check out my pinned repositories below and don't hesitate to reach out if you'd like to collaborate on a project, or just chat about web dev!
