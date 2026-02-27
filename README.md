@@ -11,7 +11,6 @@ I'm a **Versatile Front-End Engineer** with a knack for creating impactful, user
 ![NgRx](https://img.shields.io/badge/NgRx-%237639C1.svg?style=for-the-badge&logo=ngxs&logoColor=white)
 ![RxJs](https://img.shields.io/badge/RxJs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2362DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![NestJs](https://img.shields.io/badge/NestJs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 
